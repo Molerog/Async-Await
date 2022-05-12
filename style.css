@@ -1,0 +1,27 @@
+.containerPokemon{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    padding:1em;
+    gap:5em;
+
+}
+
+.cardContainer{
+    background-color: black;
+}
+
+main{
+    margin-top: 5em;
+}
+
+.title{
+    background-color: white;
+}
+
+.navbar{
+    position:fixed;
+    top:0;
+    z-index: 1;
+    width:100%;
+}
